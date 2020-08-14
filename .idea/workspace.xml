@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Web2App" />
+        <option name="packageNamePattern" value="com.sherdle.webtoapp" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Ads" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Web2App" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a55b127b-9ce7-4dbd-a7fb-df7d86d4c2d6" name="Default" comment="Restored Config.java defaults">
+      <change afterPath="$PROJECT_DIR$/app/google-services-placeholder.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sherdle/webtoapp/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sherdle/webtoapp/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="043901197R102418" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\eunic\Desktop\keystore\northern-hibiscus-keystore.jks" />
+    <option name="KEY_ALIAS" value="northhib" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1egPxfasVTvgO4nSSfcJfUdK98Q" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="app" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-01-27T16:46:00.885Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\eunic\AndroidStudioProjects\template\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Eclipse/sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1529244978708" />
+    <property name="device.picker.selection" value="ce0417140d6fa00b01" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/values" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1556545400229" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-nodpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sherdle.webtoapp.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-nodpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a55b127b-9ce7-4dbd-a7fb-df7d86d4c2d6" name="Default" comment="" />
+      <created>1520073524949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520073524949</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Build fixes, updated target SDK, multidex">
+      <created>1541624341385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541624341385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Photo option if the uri is image/* and if write external storage option is enabled">
+      <created>1541624411257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541624411257</updated>
+    </task>
+    <task id="LOCAL-00003" summary="* New Drawer Theme&#10;* Option for Light Theme&#10;* New Icons">
+      <created>1541625459325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541625459325</updated>
+    </task>
+    <task id="LOCAL-00004" summary="MultiDex">
+      <created>1543438399913</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543438399914</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upgraded OneSignal and fixed OneSignal notification bugs">
+      <created>1543767076329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543767076329</updated>
+    </task>
+    <task id="LOCAL-00006" summary="* Cleartext traffic on Android 9&#10;* Option to use logo in toolbar">
+      <created>1550613052902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550613052902</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Hide splash screen early at 80% loading completed">
+      <created>1550679465500</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550679465500</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Retry button after no connection fix">
+      <created>1550679505435</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550679505435</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Align header logo left if no drawer &#10;Gradle updates">
+      <created>1551030081204</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551030081204</updated>
+    </task>
+    <task id="LOCAL-00010" summary="If you set your Drawer header to your app icon, we'll style the header accordingly">
+      <created>1551042225783</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1551042225783</updated>
+    </task>
+    <task id="LOCAL-00011" summary="* Address bugfix where errorscreen was shown on file download&#10;* Added signingconfigs">
+      <created>1576258484195</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576258484195</updated>
+    </task>
+    <task id="LOCAL-00012" summary="AndroidX&#10;Firebase&#10;SSL error handler">
+      <created>1580144215590</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580144215590</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Notification settings link in O" />
+    <MESSAGE value="Build fixes, updated target SDK, multidex" />
+    <MESSAGE value="Photo option if the uri is image/* and if write external storage option is enabled" />
+    <MESSAGE value="* New Drawer Theme&#10;* Option for Light Theme&#10;* New Icons" />
+    <MESSAGE value="MultiDex" />
+    <MESSAGE value="Upgraded OneSignal and fixed OneSignal notification bugs" />
+    <MESSAGE value="* Cleartext traffic on Android 9&#10;* Option to use logo in toolbar" />
+    <MESSAGE value="Hide splash screen early at 80% loading completed" />
+    <MESSAGE value="Retry button after no connection fix" />
+    <MESSAGE value="Align header logo left if no drawer &#10;Gradle updates" />
+    <MESSAGE value="If you set your Drawer header to your app icon, we'll style the header accordingly" />
+    <MESSAGE value="* Address bugfix where errorscreen was shown on file download&#10;* Added signingconfigs" />
+    <MESSAGE value="AndroidX&#10;Firebase&#10;SSL error handler" />
+    <option name="LAST_COMMIT_MESSAGE" value="AndroidX&#10;Firebase&#10;SSL error handler" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="119" key="AndroidCreateResourceDirectoryDialog" timestamp="1597017436771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="119" key="AndroidCreateResourceDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1597017436771" />
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog" timestamp="1597017475999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1597017475999" />
+    <state x="538" y="129" key="AndroidProcessChooserDialog" timestamp="1596578471946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="538" y="129" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1596578471946" />
+    <state x="834" y="119" key="FileChooserDialogImpl" timestamp="1597016750317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="834" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597016750317" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1594743668467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594743668467" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1594743668467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594743668467" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1594743668466">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594743668466" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1594743668467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594743668467" />
+    <state x="370" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1596576031046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="370" y="252" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596576031046" />
+    <state x="390" y="311" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1596497226807" />
+    <state x="390" y="313" key="com.intellij.ide.util.TipDialog/0.23.1440.839@0.23.1440.839" timestamp="1596497100729" />
+  </component>
+</project>

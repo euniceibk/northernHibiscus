@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer_color.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable\\drawer_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer_item_background.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable\\drawer_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_sad_cloud.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-nodpi\\sad_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myprogressbar.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable\\myprogressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer_item_background_selected.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable\\drawer_item_background_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-mdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_observable_web_view.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\layout\\fragment_observable_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\color_tab_text_color.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\color\\tab_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_home.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\layout_no_connection.xml.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\layout\\no_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_vert_loading.png.flat",
+        "source": "C:\\Users\\eunic\\AndroidStudioProjects\\template\\app\\src\\main\\res\\drawable-nodpi\\vert_loading.png"
+    }
+]
